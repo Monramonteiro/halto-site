@@ -1,0 +1,101 @@
+   * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            padding: 20px 20px 10px;
+        }
+        header h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 50px;
+            letter-spacing: 0.2em;
+        }
+        header p {
+            font-size: 16px;
+            color: #000000;
+            margin-top: 10px;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .hero {
+            text-align: center;
+        }
+        .hero h2 {
+            font-size: 28px;
+            margin-bottom: 20px;
+            color: #444444
+        }
+        .hero p {
+            font-size: 18px;
+            color: #000000;
+        }
+
+        .sobre {
+            margin-top: 40px;
+        }
+        .sobre h3 {
+            margin-bottom: 15px;
+            text-align: center;
+            font-size: 25px;
+            color: #444444
+        }
+        .sobre p {
+            font-size: 17px;
+            color: #000000;
+        }
+        .btn-insta {
+            display: inline-block;
+            margin-top: 40px;
+            padding: 10px 22px;
+            background-color: #657348;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 500;
+        }
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            background-color: #D9CBB3;
+            font-size: 14px;
+        }
+
+        .halto {
+            font-weight: 600;
+        }
+
+        .link-footer {
+            text decoration: none;
+        }
+
+        .linha-divisoria {
+            border: none; 
+            height: 1px; 
+            background-color: #59432F; 
+            margin: 40px auto; 
+            width: 60%;
+        }
+
+        .em-breve {
+            text-align: center;
+            padding-top: 0;
+            color: #722F37;
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        main {
+            margin-top: 10px;
+            padding: 0 20px;
+        }
