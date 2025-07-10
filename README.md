@@ -4,7 +4,16 @@
 
 <h1 align="center">H.A.L.T.O | Feita pra quem vê o mundo de cima</h1>
 
+Site oficial da marca de roupas masculinas **H.A.L.T.O.**, criada para homens altos com estilo premium e caimento sob medida.
+
 ---
+
+## Sobre a marca
+
+**H.A.L.T.O.** é a sigla de _High Altered Lineage Tailored Originals_  
+Pensada para representar uma nova geração de roupas masculinas com proporções ajustadas para homens a partir de 1,90m de altura.  
+Cada peça é desenhada para valorizar o caimento, o estilo e a identidade de quem vê o mundo de cima.
+
 
 ## 🔧 Tecnologias utilizadas
 
@@ -29,9 +38,11 @@ Você pode acessar a versão publicada clicando aqui:
 
 ---
 
-## 📚 Objetivo
+## Próximos passos
 
-Este projeto é uma página web simples desenvolvida com HTML e CSS para a criação de uma loja online da marca H.A.L.T.O. 
+- [ ] Ajustar layout para telas menores
+- [ ] Criar página de formulário de interesse
+- [ ] Integrar com plataforma de e-mail marketing
 
 ---
 
