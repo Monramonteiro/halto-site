@@ -64,6 +64,10 @@
             border-radius: 4px;
             font-weight: 500;
         }
+
+        .btn-insta:hover {
+            background-color:#425027;
+        }
         footer {
             text-align: center;
             padding: 40px 20px;
@@ -92,10 +96,34 @@
             padding-top: 0;
             color: #722F37;
             font-size: 20px;
-            font-weight: 600;
+            margin-bottom:50px;
         }
 
         main {
             margin-top: 10px;
             padding: 0 20px;
+        }
+
+        .botao {
+            padding: 12px 20px;
+            background-color: #59432F;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            margin-top: 100px;
+        }
+        .botao:hover {
+            background-color:#725942;
+        }
+
+        .cadastro {
+            text-align: center;
+        }
+
+        .cadastro h2 {
+            font-size: 22px;
+            margin-bottom: 20px;
+            color: #444444;
+            font-weight: 600;
         }
