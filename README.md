@@ -10,7 +10,7 @@ Site oficial da marca de roupas masculinas **H.A.L.T.O.**, criada para homens al
 
 ## Sobre a marca
 
-**H.A.L.T.O.** é a sigla de _High Altered Lineage Tailored Originals_  
+**H.A.L.T.O.** é a sigla de _Height-Altered Lifestyle, Tailored Outfit_  
 Pensada para representar uma nova geração de roupas masculinas com proporções ajustadas para homens a partir de 1,90m de altura.  
 Cada peça é desenhada para valorizar o caimento, o estilo e a identidade de quem vê o mundo de cima.
 
