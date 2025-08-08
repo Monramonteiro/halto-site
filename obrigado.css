@@ -33,7 +33,7 @@ a.voltar {
   margin-top: 30px;
   display: inline-block;
   padding: 12px 20px;
-  background-color: #657348;
+  background-color: #722F37;
   color: #fff;
   text-decoration: none;
   border-radius: 8px;
@@ -41,13 +41,18 @@ a.voltar {
 }
 
 a.voltar:hover {
-  background-color: #425027;
+  background-color: #835056
+;
 }
 
 footer {
   margin-top: 60px;
   font-size: 0.9em;
   color: #444444;
+}
+
+span {
+    font-weight: 600;
 }
 
 span {
